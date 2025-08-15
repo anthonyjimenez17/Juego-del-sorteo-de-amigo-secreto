@@ -11,3 +11,7 @@ Version final del challenge amigo secreto reto de Alura Latam, este proyecto fue
     <li>Sorteo de los nombres en un orden aleatorio.</li>
     <li>Vaciado del array una vez se obtenga el resultado del nombre sorteado.</li>
 <p>
+<p>
+<h3>Nota (Importante)</h3>
+    Una vez que se ha sorteado y mostrado por pantalla el amigo secreto el array de amigos queda vacío
+</p>
