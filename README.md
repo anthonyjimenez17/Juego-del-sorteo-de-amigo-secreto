@@ -4,19 +4,18 @@ Version final del challenge amigo secreto reto de Alura Latam, este proyecto fue
 <p>
     Versión final del Challenge del amigo secreto concluido e incluye las siguientes funcionalidades.<br>
     <br>Ingreso de los amigos al array.
-    <img src = "assets/insertar-amigo.png">
+    <img src = "assets/insertar-amigo.png"><br>
     <br>Visualización del nombre del amigo añadido.
-    <img src = "assets/amigo-añadido.png">
+    <img src = "assets/amigo-añadido.png"><br>
     <br>Validación de que el usuario no digite nombres vacíos.
-    <img src = "assets/validacion_elementos_vacios.png">
+    <img src = "assets/validacion_elementos_vacios.png"><br>
     <br>Sorteo de los nombres en un orden aleatorio.
-    <img src = "assets/explicacion-sortear-amigo.png">
+    <img src = "assets/explicacion-sortear-amigo.png"><br>
     <br>Visualización del resultado del sorteo.
-    <img src = "assets/resultado-amigo-sorteado.png">
-    <br>
-    Validación de que el usuario no digite nombres repetidos.<br>
-    Limpieza del elemento input donde se digitan los nombres guardados.<br>
-    Vaciado del array una vez se obtenga el resultado del nombre sorteado.<br>
+    <img src = "assets/resultado-amigo-sorteado.png"><br>
+    <br>Validación de que el usuario no digite nombres repetidos.<br>
+    <br>Limpieza del elemento input donde se digitan los nombres guardados.<br>
+    <br>Vaciado del array una vez se obtenga el resultado del nombre sorteado.<br>
 
 </p>
  <h3>Nota (Importante)</h3>
