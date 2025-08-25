@@ -5,7 +5,7 @@ Version final del challenge amigo secreto reto de Alura Latam, este proyecto fue
     Versión final del Challenge del amigo secreto concluido e incluye las siguientes funcionalidades.
     <li>Ingreso de los amigos al array</li>
     <img src = "assets/insertar-amigo.png"></img>
-    <p>Visualización del nombre del amigo añadido</p>
+    <li>Visualización del nombre del amigo añadido<li>
     <img src = "assets/amigo-añadido">
     <li>Validación de que el usuario no digite nombres vacíos.</li>
     <img src = "assets/validacion_elementos_vacios.png">
