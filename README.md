@@ -3,21 +3,20 @@ Version final del challenge amigo secreto reto de Alura Latam, este proyecto fue
 <h2>Estado del proyecto</h2>
 <p>
     Versión final del Challenge del amigo secreto concluido e incluye las siguientes funcionalidades.
-    <li>Ingreso de los amigos al array</li>
+    <p>Ingreso de los amigos al array
     <img src = "assets/insertar-amigo.png"></img>
-    <li>Visualización del nombre del amigo añadido<li>
-    <img src = "assets/amigo-añadido">
-    <li>Validación de que el usuario no digite nombres vacíos.</li>
+    Visualización del nombre del amigo añadido.
+    <img src = "assets/amigo-añadido.png">
+    Validación de que el usuario no digite nombres vacíos.
     <img src = "assets/validacion_elementos_vacios.png">
-    <li>Sorteo de los nombres en un orden aleatorio.</li>
-    <img src = "assets/explicacion_sortear_amigo.png">
-    <li>Visualización del resultado del sorteo.<li>
+    Sorteo de los nombres en un orden aleatorio.
+    <img src = "assets/explicacion-sortear-amigo.png">
+    Visualización del resultado del sorteo.
     <img src = "assets/resultado-amigo-sorteado.png">
-    <li>Validación de que el usuario no digite nombres repetidos.</li>
-    <li>Limpieza del elemento input donde se digitan los nombres guardados.</li>
-    <li>Vaciado del array una vez se obtenga el resultado del nombre sorteado.</li>
-<p>
-<p>
-<h3>Nota (Importante)</h3>
+    Validación de que el usuario no digite nombres repetidos.
+    Limpieza del elemento input donde se digitan los nombres guardados.
+    Vaciado del array una vez se obtenga el resultado del nombre sorteado.
+
+ <h3>Nota (Importante)</h3>
     Una vez que se ha sorteado y mostrado por pantalla el amigo secreto el array de amigos queda vacío
 </p>
