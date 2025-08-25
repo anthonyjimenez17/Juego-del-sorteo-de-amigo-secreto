@@ -5,11 +5,11 @@ function agregarAmigo() {
     const nombreAmigo = input.value.trim();
 
     if (!nombreAmigo) { 
-        alert('Por favor ingresa un nombre válido');
+        alert('Nota: Por favor ingresa un nombre válido');
         return;
     }
     if (amigos.includes(nombreAmigo)) {
-        alert('Este amigo ya fue añadido');
+        alert('Este amigo ya fue añadido previamente');
         return;
     }
 
